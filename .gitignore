@@ -1,0 +1,8 @@
+*.class
+build/
+.gradle
+
+.DS_Store
+*.jar
+*.aar
+*.war
