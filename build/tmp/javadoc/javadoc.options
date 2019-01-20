@@ -1,0 +1,6 @@
+-classpath '/Users/kxd8387/Desktop/demo/bamboo/build/classes/main:/Users/kxd8387/Desktop/demo/bamboo/build/resources/main:/Users/kxd8387/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/18.0/cce0823396aa693798f8882e64213b1772032b09/guava-18.0.jar'
+-d '/Users/kxd8387/Desktop/demo/bamboo/build/docs/javadoc'
+-doctitle 'bamboo API'
+-quiet 
+-windowtitle 'bamboo API'
+'/Users/kxd8387/Desktop/demo/bamboo/src/main/java/Hello.java'
