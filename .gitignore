@@ -1,6 +1,4 @@
 *.class
-build/
-.gradle
 
 .DS_Store
 *.jar
